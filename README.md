@@ -1,6 +1,6 @@
  ✨ BRAINOVA - A GAMIFIED STUDY TRACKING WEBSITE
 
-A modern, AI-powered **gamified study tracking website built with Streamlit. This project helps you build and maintain positive habits, track your progress, and stay motivated with smart suggestions and analytics.
+A modern, AI-powered gamified study tracking website built with Streamlit. This project helps you build and maintain positive habits, track your progress, and stay motivated with smart suggestions and analytics.
 
 🚀 Features
 
